@@ -1,0 +1,9 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+com.capitalone.dashboard:sonar-codequality-collector,com.capitalone.dashboard,Application,8,0,0,0,3,0,2,0,2,0
+com.capitalone.dashboard:sonar-codequality-collector,com.capitalone.dashboard.collector,DefaultSonarClient,425,0,36,0,81,0,31,0,12,0
+com.capitalone.dashboard:sonar-codequality-collector,com.capitalone.dashboard.collector,SonarCollectorTask,419,0,58,0,95,0,42,0,13,0
+com.capitalone.dashboard:sonar-codequality-collector,com.capitalone.dashboard.collector,SonarSettings,38,0,0,0,16,0,11,0,11,0
+com.capitalone.dashboard:sonar-codequality-collector,com.capitalone.dashboard.collector,RestOperationsSupplier,18,0,0,0,5,0,2,0,2,0
+com.capitalone.dashboard:sonar-codequality-collector,com.capitalone.dashboard.model,SonarProject,89,0,10,0,17,0,14,0,9,0
+com.capitalone.dashboard:sonar-codequality-collector,com.capitalone.dashboard.model,SonarCollector,34,0,0,0,10,0,3,0,3,0
+com.capitalone.dashboard:sonar-codequality-collector,com.capitalone.dashboard.util,SonarDashboardUrl,0,34,0,2,0,10,0,3,0,2

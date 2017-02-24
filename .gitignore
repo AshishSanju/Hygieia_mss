@@ -23,7 +23,7 @@ common/src/querydsl
 common/src/generated
 core/src/generated
 *.log
-target
+#target
 UI/node
 UI/src/app/local-testing.js
 *.releaseBackup
@@ -42,4 +42,4 @@ logs
 .pmdruleset.xml
 .pmd
 .classpath
-application.properties
+#application.properties
