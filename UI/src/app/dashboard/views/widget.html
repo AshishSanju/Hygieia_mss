@@ -7,12 +7,16 @@
         <span class="widget-settings-icon clickable pull-right fa fa-cog"
               type="button"
               ng-if="widgetDefinition && widgetDefinition.config && state == widget_state.READY"
-              ng-click="checkPermission()"></span>
-
-        <span class="pull-right last-updated">
+			  ng-click="checkPermission()"></span>
+					
+		<span class="pull-right last-updated">
             {{lastUpdatedDisplay}}
         </span>
-    </div>
+    
+		<a ng-if="title === 'Build'" type="button" class="btn btn-primary btn-wide" onclick="calljenkins()" style="padding:5px 5px; font-size:14px; font-weight:lighter;">Build Now</a>
+		
+	</div>
+	
     <div class="widget-body">
         <div class="widget-body-main">
             <!-- widget content -->
