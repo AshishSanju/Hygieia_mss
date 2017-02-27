@@ -1,0 +1,112 @@
+2017-02-14 12:00:21,652 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-14 12:00:21,655 INFO  c.c.d.collector.CollectorTask - server1
+2017-02-14 12:00:21,656 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-14 12:00:21,657 INFO  c.c.d.collector.CollectorTask - Fetched jobs                     0s
+2017-02-14 12:00:21,657 INFO  c.c.d.collector.CollectorTask - New jobs                0        0s
+2017-02-14 12:00:21,658 INFO  c.c.d.collector.CollectorTask - New builds              0        0s
+2017-02-14 12:00:21,658 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-14 12:00:21,660 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-14 12:00:21,660 INFO  c.c.d.collector.CollectorTask - server1
+2017-02-14 12:00:21,660 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-14 12:00:21,660 INFO  c.c.d.collector.CollectorTask - Fetched jobs                     0s
+2017-02-14 12:00:21,660 INFO  c.c.d.collector.CollectorTask - New jobs                1        0s
+2017-02-14 12:00:21,660 INFO  c.c.d.collector.CollectorTask - New builds              0        0s
+2017-02-14 12:00:21,660 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-14 12:00:21,664 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-14 12:00:21,664 INFO  c.c.d.collector.CollectorTask - server1
+2017-02-14 12:00:21,664 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-14 12:00:21,664 INFO  c.c.d.collector.CollectorTask - Fetched jobs                     0s
+2017-02-14 12:00:21,664 INFO  c.c.d.collector.CollectorTask - New jobs                0        0s
+2017-02-14 12:00:21,664 INFO  c.c.d.collector.CollectorTask - New builds              0        0s
+2017-02-14 12:00:21,665 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-14 12:00:21,666 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-14 12:00:21,666 INFO  c.c.d.collector.CollectorTask - server1
+2017-02-14 12:00:21,666 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-14 12:00:21,666 INFO  c.c.d.collector.CollectorTask - Fetched jobs                     0s
+2017-02-14 12:00:21,666 INFO  c.c.d.collector.CollectorTask - New jobs                1        0s
+2017-02-14 12:00:21,667 INFO  c.c.d.collector.CollectorTask - New builds              0        0s
+2017-02-14 12:00:21,667 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-14 12:00:21,668 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-14 12:00:21,668 INFO  c.c.d.collector.CollectorTask - server1
+2017-02-14 12:00:21,668 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-14 12:00:21,669 INFO  c.c.d.collector.CollectorTask - Fetched jobs                     0s
+2017-02-14 12:00:21,669 INFO  c.c.d.collector.CollectorTask - New jobs                2        0s
+2017-02-14 12:00:21,669 INFO  c.c.d.collector.CollectorTask - New builds              0        0s
+2017-02-14 12:00:21,669 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-14 12:00:21,671 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-14 12:00:21,671 INFO  c.c.d.collector.CollectorTask - server1
+2017-02-14 12:00:21,671 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-14 12:00:21,671 INFO  c.c.d.collector.CollectorTask - Fetched jobs                     0s
+2017-02-14 12:00:21,671 INFO  c.c.d.collector.CollectorTask - New jobs                1        0s
+2017-02-14 12:00:21,671 INFO  c.c.d.collector.CollectorTask - New builds              0        0s
+2017-02-14 12:00:21,671 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-14 12:00:21,673 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-14 12:00:21,673 INFO  c.c.d.collector.CollectorTask - server1
+2017-02-14 12:00:21,673 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-14 12:00:21,673 INFO  c.c.d.collector.CollectorTask - Fetched jobs                     0s
+2017-02-14 12:00:21,673 INFO  c.c.d.collector.CollectorTask - New jobs                1        0s
+2017-02-14 12:00:21,674 INFO  c.c.d.collector.CollectorTask - New builds              1        0s
+2017-02-14 12:00:21,674 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-14 12:00:21,675 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-14 12:00:21,676 INFO  c.c.d.collector.CollectorTask - server1
+2017-02-14 12:00:21,676 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-14 12:00:21,676 INFO  c.c.d.collector.CollectorTask - Fetched jobs                     0s
+2017-02-14 12:00:21,676 INFO  c.c.d.collector.CollectorTask - New jobs                0        0s
+2017-02-14 12:00:21,676 INFO  c.c.d.collector.CollectorTask - New builds              0        0s
+2017-02-14 12:00:21,676 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-14 12:18:20,499 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-14 12:18:20,541 INFO  c.c.d.collector.CollectorTask - server1
+2017-02-14 12:18:20,541 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-14 12:18:20,542 INFO  c.c.d.collector.CollectorTask - Fetched jobs                     0s
+2017-02-14 12:18:20,543 INFO  c.c.d.collector.CollectorTask - New jobs                0        0s
+2017-02-14 12:18:20,543 INFO  c.c.d.collector.CollectorTask - New builds              0        0s
+2017-02-14 12:18:20,543 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-14 12:18:20,545 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-14 12:18:20,545 INFO  c.c.d.collector.CollectorTask - server1
+2017-02-14 12:18:20,545 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-14 12:18:20,545 INFO  c.c.d.collector.CollectorTask - Fetched jobs                     0s
+2017-02-14 12:18:20,545 INFO  c.c.d.collector.CollectorTask - New jobs                1        0s
+2017-02-14 12:18:20,546 INFO  c.c.d.collector.CollectorTask - New builds              0        0s
+2017-02-14 12:18:20,546 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-14 12:18:20,549 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-14 12:18:20,550 INFO  c.c.d.collector.CollectorTask - server1
+2017-02-14 12:18:20,550 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-14 12:18:20,550 INFO  c.c.d.collector.CollectorTask - Fetched jobs                     0s
+2017-02-14 12:18:20,550 INFO  c.c.d.collector.CollectorTask - New jobs                0        0s
+2017-02-14 12:18:20,550 INFO  c.c.d.collector.CollectorTask - New builds              0        0s
+2017-02-14 12:18:20,550 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-14 12:18:20,552 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-14 12:18:20,552 INFO  c.c.d.collector.CollectorTask - server1
+2017-02-14 12:18:20,552 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-14 12:18:20,552 INFO  c.c.d.collector.CollectorTask - Fetched jobs                     0s
+2017-02-14 12:18:20,552 INFO  c.c.d.collector.CollectorTask - New jobs                1        0s
+2017-02-14 12:18:20,552 INFO  c.c.d.collector.CollectorTask - New builds              0        0s
+2017-02-14 12:18:20,552 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-14 12:18:20,553 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-14 12:18:20,554 INFO  c.c.d.collector.CollectorTask - server1
+2017-02-14 12:18:20,554 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-14 12:18:20,555 INFO  c.c.d.collector.CollectorTask - Fetched jobs                     0s
+2017-02-14 12:18:20,555 INFO  c.c.d.collector.CollectorTask - New jobs                2        0s
+2017-02-14 12:18:20,555 INFO  c.c.d.collector.CollectorTask - New builds              0        0s
+2017-02-14 12:18:20,555 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-14 12:18:20,556 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-14 12:18:20,557 INFO  c.c.d.collector.CollectorTask - server1
+2017-02-14 12:18:20,557 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-14 12:18:20,557 INFO  c.c.d.collector.CollectorTask - Fetched jobs                     0s
+2017-02-14 12:18:20,557 INFO  c.c.d.collector.CollectorTask - New jobs                1        0s
+2017-02-14 12:18:20,557 INFO  c.c.d.collector.CollectorTask - New builds              0        0s
+2017-02-14 12:18:20,557 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-14 12:18:20,559 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-14 12:18:20,559 INFO  c.c.d.collector.CollectorTask - server1
+2017-02-14 12:18:20,559 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-14 12:18:20,559 INFO  c.c.d.collector.CollectorTask - Fetched jobs                     0s
+2017-02-14 12:18:20,559 INFO  c.c.d.collector.CollectorTask - New jobs                1        0s
+2017-02-14 12:18:20,560 INFO  c.c.d.collector.CollectorTask - New builds              1        0s
+2017-02-14 12:18:20,560 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-14 12:18:20,561 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-14 12:18:20,561 INFO  c.c.d.collector.CollectorTask - server1
+2017-02-14 12:18:20,561 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-14 12:18:20,561 INFO  c.c.d.collector.CollectorTask - Fetched jobs                     0s
+2017-02-14 12:18:20,561 INFO  c.c.d.collector.CollectorTask - New jobs                0        0s
+2017-02-14 12:18:20,561 INFO  c.c.d.collector.CollectorTask - New builds              0        0s
+2017-02-14 12:18:20,561 INFO  c.c.d.collector.CollectorTask - Finished                         0s

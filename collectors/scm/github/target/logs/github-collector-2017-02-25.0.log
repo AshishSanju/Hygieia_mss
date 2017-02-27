@@ -1,0 +1,2019 @@
+2017-02-25 00:00:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 00:00:00,521 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 00:00:00,521 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 00:00:00,521 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 00:00:01,668 INFO  c.c.d.collector.CollectorTask - Repo Count              2        1s
+2017-02-25 00:00:01,692 INFO  c.c.d.collector.CollectorTask - New Commits             0        1s
+2017-02-25 00:00:01,692 INFO  c.c.d.collector.CollectorTask - Finished                         1s
+2017-02-25 00:05:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 00:05:00,028 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 00:05:00,028 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 00:05:00,028 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 00:05:00,451 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 00:05:00,451 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 00:05:00,451 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 00:10:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 00:10:00,008 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 00:10:00,008 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 00:10:00,008 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 00:10:00,497 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 00:10:00,497 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 00:10:00,497 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 00:15:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 00:15:00,040 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 00:15:00,041 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 00:15:00,041 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 00:15:00,583 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 00:15:00,583 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 00:15:00,583 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 00:20:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 00:20:00,031 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 00:20:00,031 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 00:20:00,031 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 00:20:00,795 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 00:20:00,795 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 00:20:00,795 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 00:25:00,005 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 00:25:00,008 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 00:25:00,009 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 00:25:00,009 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 00:25:00,549 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 00:25:00,549 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 00:25:00,549 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 00:30:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 00:30:00,030 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 00:30:00,030 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 00:30:00,030 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 00:30:01,733 INFO  c.c.d.collector.CollectorTask - Repo Count              2        1s
+2017-02-25 00:30:01,734 INFO  c.c.d.collector.CollectorTask - New Commits             0        1s
+2017-02-25 00:30:01,734 INFO  c.c.d.collector.CollectorTask - Finished                         1s
+2017-02-25 00:35:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 00:35:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 00:35:00,007 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 00:35:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 00:35:00,558 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 00:35:00,558 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 00:35:00,558 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 00:40:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 00:40:00,030 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 00:40:00,030 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 00:40:00,030 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 00:40:00,526 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 00:40:00,526 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 00:40:00,526 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 00:45:00,003 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 00:45:00,006 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 00:45:00,007 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 00:45:00,040 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 00:45:00,614 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 00:45:00,614 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 00:45:00,614 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 00:50:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 00:50:00,034 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 00:50:00,034 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 00:50:00,034 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 00:50:00,514 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 00:50:00,524 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 00:50:00,524 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 00:55:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 00:55:00,024 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 00:55:00,024 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 00:55:00,029 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 00:55:00,671 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 00:55:00,671 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 00:55:00,671 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 01:00:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 01:00:00,030 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 01:00:00,030 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 01:00:00,030 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 01:00:01,462 INFO  c.c.d.collector.CollectorTask - Repo Count              2        1s
+2017-02-25 01:00:01,463 INFO  c.c.d.collector.CollectorTask - New Commits             0        1s
+2017-02-25 01:00:01,463 INFO  c.c.d.collector.CollectorTask - Finished                         1s
+2017-02-25 01:05:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 01:05:00,043 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 01:05:00,043 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 01:05:00,043 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 01:05:00,545 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 01:05:00,546 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 01:05:00,548 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 01:10:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 01:10:00,041 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 01:10:00,041 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 01:10:00,041 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 01:10:00,837 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 01:10:00,837 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 01:10:00,837 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 01:15:00,003 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 01:15:00,006 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 01:15:00,026 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 01:15:00,027 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 01:15:00,702 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 01:15:00,702 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 01:15:00,702 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 01:20:00,003 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 01:20:00,034 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 01:20:00,034 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 01:20:00,034 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 01:20:01,124 INFO  c.c.d.collector.CollectorTask - Repo Count              2        1s
+2017-02-25 01:20:01,124 INFO  c.c.d.collector.CollectorTask - New Commits             0        1s
+2017-02-25 01:20:01,124 INFO  c.c.d.collector.CollectorTask - Finished                         1s
+2017-02-25 01:25:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 01:25:00,047 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 01:25:00,047 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 01:25:00,047 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 01:25:00,601 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 01:25:00,601 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 01:25:00,601 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 01:30:00,005 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 01:30:00,015 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 01:30:00,016 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 01:30:00,016 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 01:30:01,706 INFO  c.c.d.collector.CollectorTask - Repo Count              2        1s
+2017-02-25 01:30:01,709 INFO  c.c.d.collector.CollectorTask - New Commits             0        1s
+2017-02-25 01:30:01,710 INFO  c.c.d.collector.CollectorTask - Finished                         1s
+2017-02-25 01:35:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 01:35:00,023 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 01:35:00,030 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 01:35:00,031 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 01:35:00,565 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 01:35:00,565 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 01:35:00,566 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 01:40:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 01:40:00,032 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 01:40:00,043 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 01:40:00,043 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 01:40:00,614 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 01:40:00,614 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 01:40:00,614 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 01:45:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 01:45:00,026 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 01:45:00,027 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 01:45:00,027 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 01:45:00,553 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 01:45:00,554 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 01:45:00,554 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 01:50:00,003 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 01:50:00,026 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 01:50:00,026 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 01:50:00,027 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 01:50:00,513 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 01:50:00,514 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 01:50:00,514 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 01:55:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 01:55:00,032 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 01:55:00,032 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 01:55:00,032 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 01:55:00,575 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 01:55:00,575 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 01:55:00,578 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 02:00:00,005 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 02:00:00,008 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 02:00:00,008 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 02:00:00,008 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 02:00:00,406 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 02:00:00,406 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 02:00:00,406 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 02:05:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 02:05:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 02:05:00,007 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 02:05:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 02:05:00,402 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 02:05:00,402 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 02:05:00,402 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 02:10:00,003 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 02:10:00,006 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 02:10:00,006 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 02:10:00,006 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 02:10:00,376 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 02:10:00,377 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 02:10:00,377 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 02:15:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 02:15:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 02:15:00,008 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 02:15:00,008 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 02:15:00,438 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 02:15:00,438 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 02:15:00,439 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 02:20:00,006 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 02:20:00,009 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 02:20:00,009 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 02:20:00,009 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 02:20:00,382 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 02:20:00,382 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 02:20:00,382 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 02:25:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 02:25:00,029 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 02:25:00,029 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 02:25:00,029 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 02:25:00,380 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 02:25:00,380 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 02:25:00,380 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 02:30:00,005 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 02:30:00,029 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 02:30:00,029 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 02:30:00,029 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 02:30:01,012 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 02:30:01,012 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 02:30:01,012 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 02:35:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 02:35:00,014 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 02:35:00,014 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 02:35:00,014 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 02:35:00,334 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 02:35:00,334 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 02:35:00,334 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 02:40:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 02:40:00,008 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 02:40:00,008 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 02:40:00,008 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 02:40:00,328 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 02:40:00,328 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 02:40:00,328 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 02:45:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 02:45:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 02:45:00,007 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 02:45:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 02:45:00,454 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 02:45:00,454 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 02:45:00,454 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 02:50:00,003 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 02:50:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 02:50:00,007 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 02:50:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 02:50:00,432 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 02:50:00,432 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 02:50:00,432 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 02:55:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 02:55:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 02:55:00,007 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 02:55:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 02:55:00,424 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 02:55:00,424 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 02:55:00,424 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 03:00:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 03:00:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 03:00:00,007 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 03:00:00,008 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 03:00:00,578 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 03:00:00,579 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 03:00:00,579 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 03:05:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 03:05:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 03:05:00,008 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 03:05:00,008 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 03:05:00,385 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 03:05:00,385 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 03:05:00,385 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 03:10:00,003 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 03:10:00,006 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 03:10:00,006 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 03:10:00,006 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 03:10:00,714 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 03:10:00,715 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 03:10:00,715 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 03:15:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 03:15:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 03:15:00,007 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 03:15:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 03:15:00,327 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 03:15:00,327 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 03:15:00,327 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 03:20:00,003 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 03:20:00,006 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 03:20:00,007 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 03:20:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 03:20:00,388 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 03:20:00,388 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 03:20:00,389 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 03:25:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 03:25:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 03:25:00,007 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 03:25:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 03:25:00,369 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 03:25:00,369 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 03:25:00,369 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 03:30:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 03:30:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 03:30:00,007 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 03:30:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 03:30:00,396 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 03:30:00,396 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 03:30:00,396 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 03:35:00,005 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 03:35:00,008 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 03:35:00,009 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 03:35:00,009 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 03:35:00,327 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 03:35:00,327 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 03:35:00,327 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 03:40:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 03:40:00,024 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 03:40:00,024 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 03:40:00,024 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 03:40:00,470 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 03:40:00,470 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 03:40:00,470 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 03:45:00,003 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 03:45:00,006 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 03:45:00,006 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 03:45:00,006 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 03:45:00,326 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 03:45:00,326 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 03:45:00,326 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 03:50:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 03:50:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 03:50:00,007 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 03:50:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 03:50:00,390 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 03:50:00,390 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 03:50:00,390 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 03:55:00,003 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 03:55:00,006 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 03:55:00,006 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 03:55:00,006 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 03:55:00,328 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 03:55:00,328 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 03:55:00,329 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 04:00:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 04:00:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 04:00:00,007 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 04:00:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 04:00:00,574 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 04:00:00,575 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 04:00:00,575 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 04:05:00,005 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 04:05:00,008 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 04:05:00,008 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 04:05:00,008 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 04:05:00,331 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 04:05:00,332 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 04:05:00,332 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 04:10:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 04:10:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 04:10:00,007 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 04:10:00,008 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 04:10:00,355 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 04:10:00,355 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 04:10:00,355 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 04:15:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 04:15:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 04:15:00,007 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 04:15:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 04:15:00,323 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 04:15:00,323 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 04:15:00,323 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 04:20:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 04:20:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 04:20:00,008 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 04:20:00,008 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 04:20:00,338 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 04:20:00,338 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 04:20:00,338 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 04:25:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 04:25:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 04:25:00,007 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 04:25:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 04:25:00,349 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 04:25:00,349 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 04:25:00,349 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 04:30:00,003 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 04:30:00,006 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 04:30:00,006 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 04:30:00,006 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 04:30:00,320 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 04:30:00,321 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 04:30:00,321 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 04:35:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 04:35:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 04:35:00,007 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 04:35:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 04:35:00,367 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 04:35:00,367 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 04:35:00,367 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 04:40:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 04:40:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 04:40:00,007 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 04:40:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 04:40:00,469 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 04:40:00,469 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 04:40:00,469 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 04:45:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 04:45:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 04:45:00,007 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 04:45:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 04:45:00,358 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 04:45:00,358 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 04:45:00,358 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 04:50:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 04:50:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 04:50:00,007 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 04:50:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 04:50:00,347 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 04:50:00,347 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 04:50:00,347 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 04:55:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 04:55:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 04:55:00,008 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 04:55:00,008 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 04:55:00,377 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 04:55:00,377 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 04:55:00,377 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 05:00:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 05:00:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 05:00:00,007 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 05:00:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 05:00:00,335 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 05:00:00,335 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 05:00:00,335 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 05:05:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 05:05:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 05:05:00,007 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 05:05:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 05:05:00,393 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 05:05:00,393 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 05:05:00,393 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 05:10:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 05:10:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 05:10:00,007 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 05:10:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 05:10:00,338 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 05:10:00,338 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 05:10:00,339 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 05:15:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 05:15:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 05:15:00,007 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 05:15:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 05:15:00,308 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 05:15:00,308 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 05:15:00,309 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 05:20:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 05:20:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 05:20:00,007 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 05:20:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 05:20:00,375 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 05:20:00,376 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 05:20:00,376 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 05:25:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 05:25:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 05:25:00,007 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 05:25:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 05:25:00,353 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 05:25:00,353 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 05:25:00,353 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 05:30:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 05:30:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 05:30:00,007 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 05:30:00,008 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 05:30:00,396 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 05:30:00,397 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 05:30:00,397 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 05:35:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 05:35:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 05:35:00,007 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 05:35:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 05:35:00,351 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 05:35:00,351 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 05:35:00,351 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 05:40:00,005 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 05:40:00,008 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 05:40:00,008 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 05:40:00,009 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 05:40:00,389 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 05:40:00,389 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 05:40:00,389 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 05:45:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 05:45:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 05:45:00,007 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 05:45:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 05:45:00,336 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 05:45:00,336 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 05:45:00,336 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 05:50:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 05:50:00,029 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 05:50:00,029 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 05:50:00,029 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 05:50:00,405 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 05:50:00,405 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 05:50:00,405 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 05:55:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 05:55:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 05:55:00,007 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 05:55:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 05:55:00,326 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 05:55:00,326 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 05:55:00,326 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 06:00:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 06:00:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 06:00:00,007 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 06:00:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 06:00:00,468 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 06:00:00,468 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 06:00:00,529 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 06:05:00,003 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 06:05:00,006 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 06:05:00,006 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 06:05:00,006 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 06:05:00,335 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 06:05:00,335 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 06:05:00,335 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 06:10:00,005 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 06:10:00,008 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 06:10:00,008 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 06:10:00,008 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 06:10:00,386 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 06:10:00,386 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 06:10:00,386 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 06:15:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 06:15:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 06:15:00,008 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 06:15:00,008 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 06:15:00,317 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 06:15:00,317 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 06:15:00,317 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 06:20:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 06:20:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 06:20:00,007 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 06:20:00,008 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 06:20:00,328 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 06:20:00,328 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 06:20:00,328 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 06:25:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 06:25:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 06:25:00,007 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 06:25:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 06:25:00,364 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 06:25:00,364 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 06:25:00,364 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 06:30:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 06:30:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 06:30:00,007 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 06:30:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 06:30:00,398 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 06:30:00,398 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 06:30:00,398 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 06:35:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 06:35:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 06:35:00,007 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 06:35:00,008 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 06:35:00,331 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 06:35:00,331 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 06:35:00,332 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 06:40:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 06:40:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 06:40:00,007 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 06:40:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 06:40:00,358 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 06:40:00,358 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 06:40:00,358 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 06:45:00,005 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 06:45:00,008 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 06:45:00,008 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 06:45:00,008 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 06:45:00,344 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 06:45:00,344 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 06:45:00,344 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 06:50:00,003 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 06:50:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 06:50:00,007 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 06:50:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 06:50:00,359 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 06:50:00,359 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 06:50:00,359 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 06:55:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 06:55:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 06:55:00,007 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 06:55:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 06:55:00,419 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 06:55:00,419 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 06:55:00,419 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 07:00:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 07:00:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 07:00:00,007 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 07:00:00,008 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 07:00:00,323 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 07:00:07,698 INFO  c.c.d.collector.CollectorTask - New Commits             0        7s
+2017-02-25 07:00:07,718 INFO  c.c.d.collector.CollectorTask - Finished                         7s
+2017-02-25 07:05:00,003 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 07:05:00,028 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 07:05:00,028 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 07:05:00,028 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 07:05:00,957 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 07:05:00,957 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 07:05:00,957 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 07:10:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 07:10:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 07:10:00,023 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 07:10:00,023 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 07:10:00,375 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 07:10:00,376 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 07:10:00,376 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 07:15:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 07:15:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 07:15:00,007 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 07:15:00,019 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 07:15:00,425 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 07:15:00,425 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 07:15:00,425 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 07:20:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 07:20:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 07:20:00,008 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 07:20:00,008 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 07:20:00,396 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 07:20:00,396 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 07:20:00,397 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 07:25:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 07:25:00,006 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 07:25:00,013 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 07:25:00,013 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 07:25:00,412 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 07:25:00,412 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 07:25:00,412 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 07:30:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 07:30:00,008 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 07:30:00,008 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 07:30:00,008 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 07:30:00,818 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 07:30:00,818 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 07:30:00,819 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 07:35:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 07:35:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 07:35:00,008 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 07:35:00,008 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 07:35:00,504 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 07:35:00,504 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 07:35:00,504 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 07:40:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 07:40:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 07:40:00,007 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 07:40:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 07:40:00,433 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 07:40:00,433 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 07:40:00,433 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 07:45:00,005 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 07:45:00,017 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 07:45:00,017 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 07:45:00,017 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 07:45:00,728 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 07:45:00,728 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 07:45:00,728 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 07:50:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 07:50:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 07:50:00,029 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 07:50:00,029 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 07:50:00,445 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 07:50:00,445 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 07:50:00,445 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 07:55:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 07:55:00,024 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 07:55:00,024 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 07:55:00,024 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 07:55:00,413 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 07:55:00,413 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 07:55:00,414 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 08:00:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 08:00:00,011 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 08:00:00,011 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 08:00:00,011 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 08:00:00,618 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 08:00:00,618 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 08:00:00,619 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 08:05:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 08:05:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 08:05:00,007 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 08:05:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 08:05:00,337 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 08:05:00,337 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 08:05:00,337 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 08:10:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 08:10:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 08:10:00,007 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 08:10:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 08:10:00,313 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 08:10:00,313 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 08:10:00,313 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 08:15:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 08:15:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 08:15:00,007 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 08:15:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 08:15:00,335 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 08:15:00,335 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 08:15:00,335 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 08:20:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 08:20:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 08:20:00,007 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 08:20:00,008 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 08:20:00,333 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 08:20:00,333 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 08:20:00,333 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 08:25:00,003 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 08:25:00,027 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 08:25:00,027 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 08:25:00,027 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 08:25:00,354 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 08:25:00,354 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 08:25:00,354 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 08:30:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 08:30:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 08:30:00,007 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 08:30:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 08:30:00,334 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 08:30:00,334 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 08:30:00,334 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 08:35:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 08:35:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 08:35:00,007 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 08:35:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 08:35:00,360 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 08:35:00,360 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 08:35:00,360 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 08:40:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 08:40:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 08:40:00,022 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 08:40:00,022 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 08:40:00,332 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 08:40:00,332 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 08:40:00,332 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 08:45:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 08:45:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 08:45:00,007 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 08:45:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 08:45:00,328 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 08:45:00,328 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 08:45:00,328 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 08:50:00,005 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 08:50:00,008 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 08:50:00,008 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 08:50:00,008 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 08:50:00,400 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 08:50:00,400 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 08:50:00,401 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 08:55:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 08:55:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 08:55:00,007 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 08:55:00,008 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 08:55:00,332 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 08:55:00,332 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 08:55:00,332 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 09:00:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 09:00:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 09:00:00,007 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 09:00:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 09:00:00,379 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 09:00:00,379 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 09:00:00,379 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 09:05:00,003 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 09:05:00,006 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 09:05:00,006 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 09:05:00,006 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 09:05:00,342 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 09:05:00,342 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 09:05:00,342 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 09:10:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 09:10:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 09:10:00,007 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 09:10:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 09:10:00,384 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 09:10:00,384 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 09:10:00,384 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 09:15:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 09:15:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 09:15:00,007 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 09:15:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 09:15:00,315 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 09:15:00,315 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 09:15:00,315 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 09:20:00,005 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 09:20:00,008 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 09:20:00,008 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 09:20:00,008 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 09:20:00,415 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 09:20:00,415 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 09:20:00,415 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 09:25:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 09:25:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 09:25:00,007 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 09:25:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 09:25:00,334 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 09:25:00,334 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 09:25:00,334 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 09:30:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 09:30:00,008 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 09:30:00,008 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 09:30:00,008 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 09:30:00,350 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 09:30:00,351 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 09:30:00,351 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 09:35:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 09:35:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 09:35:00,007 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 09:35:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 09:35:00,320 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 09:35:00,321 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 09:35:00,321 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 09:40:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 09:40:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 09:40:00,007 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 09:40:00,008 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 09:40:00,342 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 09:40:00,343 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 09:40:00,343 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 09:45:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 09:45:00,008 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 09:45:00,008 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 09:45:00,008 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 09:45:00,319 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 09:45:00,319 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 09:45:00,319 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 09:50:00,005 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 09:50:00,008 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 09:50:00,008 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 09:50:00,008 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 09:50:00,321 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 09:50:00,321 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 09:50:00,321 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 09:55:00,003 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 09:55:00,006 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 09:55:00,006 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 09:55:00,006 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 09:55:00,360 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 09:55:00,360 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 09:55:00,360 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 10:00:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 10:00:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 10:00:00,007 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 10:00:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 10:00:00,351 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 10:00:00,352 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 10:00:00,352 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 10:05:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 10:05:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 10:05:00,007 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 10:05:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 10:05:00,453 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 10:05:00,453 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 10:05:00,454 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 10:10:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 10:10:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 10:10:00,007 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 10:10:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 10:10:00,327 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 10:10:00,327 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 10:10:00,327 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 10:15:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 10:15:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 10:15:00,008 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 10:15:00,008 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 10:15:00,337 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 10:15:00,337 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 10:15:00,337 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 10:20:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 10:20:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 10:20:00,007 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 10:20:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 10:20:00,345 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 10:20:00,345 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 10:20:00,345 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 10:25:00,005 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 10:25:00,008 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 10:25:00,008 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 10:25:00,008 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 10:25:00,368 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 10:25:00,368 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 10:25:00,368 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 10:30:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 10:30:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 10:30:00,007 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 10:30:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 10:30:00,312 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 10:30:00,312 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 10:30:00,312 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 10:35:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 10:35:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 10:35:00,007 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 10:35:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 10:35:00,366 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 10:35:00,366 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 10:35:00,367 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 10:40:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 10:40:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 10:40:00,007 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 10:40:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 10:40:00,359 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 10:40:00,359 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 10:40:00,359 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 10:45:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 10:45:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 10:45:00,007 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 10:45:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 10:45:00,368 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 10:45:00,368 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 10:45:00,369 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 10:50:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 10:50:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 10:50:00,007 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 10:50:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 10:50:00,330 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 10:50:00,331 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 10:50:00,331 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 10:55:00,005 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 10:55:00,008 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 10:55:00,008 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 10:55:00,008 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 10:55:00,353 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 10:55:00,353 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 10:55:00,353 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 11:00:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 11:00:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 11:00:00,007 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 11:00:00,008 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 11:00:00,575 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 11:00:00,575 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 11:00:00,575 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 11:05:00,003 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 11:05:00,006 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 11:05:00,006 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 11:05:00,006 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 11:05:00,320 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 11:05:00,320 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 11:05:00,320 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 11:10:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 11:10:00,008 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 11:10:00,008 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 11:10:00,008 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 11:10:00,348 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 11:10:00,349 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 11:10:00,349 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 11:15:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 11:15:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 11:15:00,007 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 11:15:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 11:15:00,339 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 11:15:00,339 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 11:15:00,339 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 11:20:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 11:20:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 11:20:00,007 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 11:20:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 11:20:00,337 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 11:20:00,337 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 11:20:00,337 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 11:25:00,005 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 11:25:00,008 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 11:25:00,008 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 11:25:00,008 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 11:25:00,336 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 11:25:00,336 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 11:25:00,336 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 11:30:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 11:30:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 11:30:00,007 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 11:30:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 11:30:00,339 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 11:30:00,339 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 11:30:00,339 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 11:35:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 11:35:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 11:35:00,008 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 11:35:00,008 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 11:35:00,328 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 11:35:00,328 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 11:35:00,328 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 11:40:00,003 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 11:40:00,006 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 11:40:00,006 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 11:40:00,006 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 11:40:00,333 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 11:40:00,333 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 11:40:00,333 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 11:45:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 11:45:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 11:45:00,007 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 11:45:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 11:45:00,329 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 11:45:00,330 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 11:45:00,330 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 11:50:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 11:50:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 11:50:00,007 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 11:50:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 11:50:00,394 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 11:50:00,394 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 11:50:00,394 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 11:55:00,003 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 11:55:00,006 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 11:55:00,006 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 11:55:00,006 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 11:55:00,340 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 11:55:00,340 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 11:55:00,341 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 12:00:00,005 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 12:00:00,008 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 12:00:00,009 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 12:00:00,009 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 12:00:00,513 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 12:00:00,513 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 12:00:00,513 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 12:05:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 12:05:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 12:05:00,007 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 12:05:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 12:05:00,469 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 12:05:00,469 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 12:05:00,469 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 12:10:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 12:10:00,008 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 12:10:00,008 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 12:10:00,008 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 12:10:00,384 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 12:10:00,384 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 12:10:00,384 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 12:15:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 12:15:00,009 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 12:15:00,009 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 12:15:00,009 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 12:15:00,373 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 12:15:00,373 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 12:15:00,373 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 12:20:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 12:20:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 12:20:00,007 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 12:20:00,008 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 12:20:00,354 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 12:20:00,354 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 12:20:00,354 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 12:25:00,003 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 12:25:00,013 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 12:25:00,013 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 12:25:00,013 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 12:25:00,362 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 12:25:00,362 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 12:25:00,362 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 12:30:00,005 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 12:30:00,008 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 12:30:00,008 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 12:30:00,008 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 12:30:00,527 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 12:30:00,527 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 12:30:00,527 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 12:35:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 12:35:00,005 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 12:35:00,005 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 12:35:00,005 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 12:35:00,373 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 12:35:00,373 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 12:35:00,373 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 12:40:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 12:40:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 12:40:00,007 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 12:40:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 12:40:00,343 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 12:40:00,344 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 12:40:00,344 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 12:45:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 12:45:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 12:45:00,007 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 12:45:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 12:45:00,331 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 12:45:00,331 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 12:45:00,331 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 12:50:00,003 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 12:50:00,006 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 12:50:00,006 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 12:50:00,006 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 12:50:00,355 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 12:50:00,355 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 12:50:00,355 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 12:55:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 12:55:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 12:55:00,008 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 12:55:00,008 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 12:55:00,354 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 12:55:00,355 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 12:55:00,355 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 13:00:00,005 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 13:00:00,019 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 13:00:00,019 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 13:00:00,019 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 13:00:00,652 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 13:00:00,652 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 13:00:00,652 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 13:05:00,003 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 13:05:00,021 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 13:05:00,021 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 13:05:00,021 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 13:05:00,493 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 13:05:00,493 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 13:05:00,493 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 13:10:00,003 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 13:10:00,025 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 13:10:00,025 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 13:10:00,025 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 13:10:00,481 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 13:10:00,481 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 13:10:00,481 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 13:15:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 13:15:00,023 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 13:15:00,023 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 13:15:00,023 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 13:15:00,492 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 13:15:00,492 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 13:15:00,492 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 13:20:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 13:20:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 13:20:00,025 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 13:20:00,025 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 13:20:00,471 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 13:20:00,471 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 13:20:00,471 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 13:25:00,003 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 13:25:00,006 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 13:25:00,026 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 13:25:00,026 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 13:25:00,373 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 13:25:00,374 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 13:25:00,374 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 13:30:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 13:30:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 13:30:00,007 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 13:30:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 13:30:00,576 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 13:30:00,577 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 13:30:00,577 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 13:35:00,003 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 13:35:00,006 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 13:35:00,006 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 13:35:00,006 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 13:35:00,398 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 13:35:00,398 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 13:35:00,398 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 13:40:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 13:40:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 13:40:00,007 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 13:40:00,008 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 13:40:00,373 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 13:40:00,373 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 13:40:00,373 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 13:45:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 13:45:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 13:45:00,007 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 13:45:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 13:45:00,364 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 13:45:00,364 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 13:45:00,364 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 13:50:00,003 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 13:50:00,006 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 13:50:00,006 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 13:50:00,006 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 13:50:00,364 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 13:50:00,364 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 13:50:00,364 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 13:55:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 13:55:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 13:55:00,007 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 13:55:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 13:55:00,340 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 13:55:00,340 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 13:55:00,340 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 14:00:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 14:00:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 14:00:00,007 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 14:00:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 14:00:00,482 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 14:00:00,482 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 14:00:00,482 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 14:05:00,005 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 14:05:00,008 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 14:05:00,009 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 14:05:00,009 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 14:05:00,330 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 14:05:00,330 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 14:05:00,330 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 14:10:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 14:10:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 14:10:00,008 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 14:10:00,008 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 14:10:00,355 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 14:10:00,355 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 14:10:00,355 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 14:15:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 14:15:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 14:15:00,008 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 14:15:00,008 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 14:15:00,343 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 14:15:00,343 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 14:15:00,343 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 14:20:00,003 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 14:20:00,006 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 14:20:00,006 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 14:20:00,006 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 14:20:00,378 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 14:20:00,378 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 14:20:00,378 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 14:25:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 14:25:00,034 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 14:25:00,034 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 14:25:00,034 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 14:25:00,382 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 14:25:00,382 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 14:25:00,382 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 14:30:00,003 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 14:30:00,006 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 14:30:00,028 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 14:30:00,028 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 14:30:00,871 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 14:30:00,871 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 14:30:00,871 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 14:35:00,005 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 14:35:00,029 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 14:35:00,029 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 14:35:00,029 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 14:35:00,460 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 14:35:00,461 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 14:35:00,461 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 14:40:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 14:40:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 14:40:00,026 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 14:40:00,026 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 14:40:00,445 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 14:40:00,445 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 14:40:00,445 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 14:45:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 14:45:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 14:45:00,007 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 14:45:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 14:45:00,380 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 14:45:00,380 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 14:45:00,380 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 14:50:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 14:50:00,008 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 14:50:00,008 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 14:50:00,008 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 14:50:00,384 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 14:50:00,384 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 14:50:00,384 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 14:55:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 14:55:00,028 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 14:55:00,028 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 14:55:00,028 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 14:55:00,391 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 14:55:00,391 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 14:55:00,391 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 15:00:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 15:00:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 15:00:00,029 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 15:00:00,029 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 15:00:00,583 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 15:00:00,583 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 15:00:00,583 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 15:05:00,005 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 15:05:00,030 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 15:05:00,030 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 15:05:00,030 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 15:05:00,398 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 15:05:00,398 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 15:05:00,398 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 15:10:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 15:10:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 15:10:00,007 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 15:10:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 15:10:00,391 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 15:10:00,391 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 15:10:00,391 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 15:15:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 15:15:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 15:15:00,007 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 15:15:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 15:15:00,385 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 15:15:00,385 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 15:15:00,385 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 15:20:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 15:20:00,008 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 15:20:00,008 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 15:20:00,008 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 15:20:00,458 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 15:20:00,458 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 15:20:00,458 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 15:25:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 15:25:00,023 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 15:25:00,024 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 15:25:00,024 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 15:25:00,433 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 15:25:00,433 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 15:25:00,433 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 15:30:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 15:30:00,066 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 15:30:00,066 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 15:30:00,066 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 15:30:00,714 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 15:30:00,714 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 15:30:00,714 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 15:35:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 15:35:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 15:35:00,008 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 15:35:00,008 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 15:35:00,384 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 15:35:00,384 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 15:35:00,384 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 15:40:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 15:40:00,008 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 15:40:00,008 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 15:40:00,008 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 15:40:00,334 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 15:40:00,334 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 15:40:00,334 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 15:45:00,003 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 15:45:00,006 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 15:45:00,006 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 15:45:00,006 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 15:45:00,343 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 15:45:00,343 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 15:45:00,343 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 15:50:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 15:50:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 15:50:00,007 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 15:50:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 15:50:00,323 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 15:50:00,323 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 15:50:00,323 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 15:55:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 15:55:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 15:55:00,007 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 15:55:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 15:55:00,353 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 15:55:00,353 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 15:55:00,354 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 16:00:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 16:00:00,008 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 16:00:00,008 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 16:00:00,008 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 16:00:00,331 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 16:00:00,331 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 16:00:00,331 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 16:05:00,003 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 16:05:00,006 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 16:05:00,006 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 16:05:00,006 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 16:05:00,324 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 16:05:00,324 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 16:05:00,324 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 16:10:00,005 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 16:10:00,008 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 16:10:00,008 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 16:10:00,008 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 16:10:00,330 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 16:10:00,330 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 16:10:00,330 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 16:15:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 16:15:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 16:15:00,007 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 16:15:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 16:15:00,337 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 16:15:00,337 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 16:15:00,337 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 16:20:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 16:20:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 16:20:00,007 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 16:20:00,008 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 16:20:00,340 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 16:20:00,340 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 16:20:00,340 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 16:25:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 16:25:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 16:25:00,007 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 16:25:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 16:25:00,332 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 16:25:00,332 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 16:25:00,332 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 16:30:00,003 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 16:30:00,006 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 16:30:00,006 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 16:30:00,006 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 16:30:00,319 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 16:30:00,320 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 16:30:00,320 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 16:35:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 16:35:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 16:35:00,007 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 16:35:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 16:35:00,316 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 16:35:00,316 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 16:35:00,316 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 16:40:00,005 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 16:40:00,008 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 16:40:00,008 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 16:40:00,008 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 16:40:00,341 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 16:40:00,341 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 16:40:00,341 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 16:45:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 16:45:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 16:45:00,007 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 16:45:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 16:45:00,328 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 16:45:00,328 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 16:45:00,328 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 16:50:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 16:50:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 16:50:00,007 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 16:50:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 16:50:00,316 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 16:50:00,316 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 16:50:00,316 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 16:55:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 16:55:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 16:55:00,007 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 16:55:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 16:55:00,346 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 16:55:00,346 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 16:55:00,346 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 17:00:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 17:00:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 17:00:00,007 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 17:00:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 17:00:00,358 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 17:00:00,358 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 17:00:00,358 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 17:05:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 17:05:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 17:05:00,007 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 17:05:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 17:05:00,353 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 17:05:00,353 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 17:05:00,353 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 17:10:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 17:10:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 17:10:00,007 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 17:10:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 17:10:00,322 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 17:10:00,322 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 17:10:00,322 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 17:15:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 17:15:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 17:15:00,007 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 17:15:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 17:15:00,329 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 17:15:00,329 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 17:15:00,329 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 17:20:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 17:20:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 17:20:00,007 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 17:20:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 17:20:00,339 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 17:20:00,339 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 17:20:00,339 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 17:25:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 17:25:00,005 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 17:25:00,005 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 17:25:00,005 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 17:25:00,315 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 17:25:00,315 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 17:25:00,315 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 17:30:00,003 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 17:30:00,006 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 17:30:00,006 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 17:30:00,006 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 17:30:00,321 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 17:30:00,322 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 17:30:00,322 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 17:35:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 17:35:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 17:35:00,007 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 17:35:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 17:35:00,337 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 17:35:00,337 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 17:35:00,337 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 17:40:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 17:40:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 17:40:00,007 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 17:40:00,008 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 17:40:00,334 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 17:40:00,334 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 17:40:00,334 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 17:45:00,005 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 17:45:00,008 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 17:45:00,008 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 17:45:00,008 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 17:45:00,336 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 17:45:00,336 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 17:45:00,336 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 17:50:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 17:50:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 17:50:00,007 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 17:50:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 17:50:00,343 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 17:50:00,344 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 17:50:00,344 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 17:55:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 17:55:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 17:55:00,007 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 17:55:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 17:55:00,340 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 17:55:00,340 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 17:55:00,340 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 18:00:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 18:00:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 18:00:00,007 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 18:00:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 18:00:00,325 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 18:00:00,325 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 18:00:00,325 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 18:05:00,003 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 18:05:00,006 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 18:05:00,006 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 18:05:00,006 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 18:05:00,326 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 18:05:00,326 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 18:05:00,326 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 18:10:00,005 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 18:10:00,009 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 18:10:00,009 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 18:10:00,009 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 18:10:00,335 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 18:10:00,336 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 18:10:00,336 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 18:15:00,005 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 18:15:00,008 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 18:15:00,008 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 18:15:00,008 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 18:15:00,334 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 18:15:00,334 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 18:15:00,334 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 18:20:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 18:20:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 18:20:00,007 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 18:20:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 18:20:00,338 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 18:20:00,338 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 18:20:00,338 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 18:25:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 18:25:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 18:25:00,007 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 18:25:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 18:25:00,348 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 18:25:00,349 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 18:25:00,349 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 18:30:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 18:30:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 18:30:00,007 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 18:30:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 18:30:00,310 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 18:30:00,310 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 18:30:00,310 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 18:35:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 18:35:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 18:35:00,007 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 18:35:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 18:35:00,332 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 18:35:00,332 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 18:35:00,332 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 18:40:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 18:40:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 18:40:00,007 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 18:40:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 18:40:00,348 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 18:40:00,349 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 18:40:00,349 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 18:45:00,005 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 18:45:00,008 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 18:45:00,008 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 18:45:00,008 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 18:45:00,317 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 18:45:00,318 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 18:45:00,318 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 18:50:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 18:50:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 18:50:00,007 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 18:50:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 18:50:00,331 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 18:50:00,331 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 18:50:00,331 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 18:55:00,003 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 18:55:00,006 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 18:55:00,006 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 18:55:00,006 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 18:55:00,336 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 18:55:00,336 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 18:55:00,336 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 19:00:00,003 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 19:00:00,006 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 19:00:00,006 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 19:00:00,006 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 19:00:00,327 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 19:00:00,327 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 19:00:00,327 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 19:05:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 19:05:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 19:05:00,007 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 19:05:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 19:05:00,347 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 19:05:00,347 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 19:05:00,347 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 19:10:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 19:10:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 19:10:00,007 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 19:10:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 19:10:00,362 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 19:10:00,362 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 19:10:00,362 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 19:15:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 19:15:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 19:15:00,007 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 19:15:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 19:15:00,316 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 19:15:00,316 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 19:15:00,316 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 19:20:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 19:20:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 19:20:00,007 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 19:20:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 19:20:00,331 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 19:20:00,331 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 19:20:00,331 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 19:25:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 19:25:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 19:25:00,007 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 19:25:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 19:25:00,332 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 19:25:00,332 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 19:25:00,332 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 19:30:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 19:30:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 19:30:00,007 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 19:30:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 19:30:00,325 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 19:30:00,325 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 19:30:00,325 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 19:35:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 19:35:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 19:35:00,007 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 19:35:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 19:35:00,340 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 19:35:00,340 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 19:35:00,340 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 19:40:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 19:40:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 19:40:00,007 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 19:40:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 19:40:00,319 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 19:40:00,319 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 19:40:00,319 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 19:45:00,006 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 19:45:00,009 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 19:45:00,009 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 19:45:00,009 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 19:45:00,347 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 19:45:00,347 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 19:45:00,347 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 19:50:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 19:50:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 19:50:00,007 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 19:50:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 19:50:00,324 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 19:50:00,324 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 19:50:00,324 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 19:55:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 19:55:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 19:55:00,007 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 19:55:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 19:55:00,329 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 19:55:00,329 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 19:55:00,329 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 20:00:00,003 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 20:00:00,006 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 20:00:00,006 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 20:00:00,006 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 20:00:00,327 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 20:00:00,327 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 20:00:00,327 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 20:05:00,003 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 20:05:00,006 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 20:05:00,006 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 20:05:00,006 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 20:05:00,318 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 20:05:00,318 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 20:05:00,318 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 20:10:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 20:10:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 20:10:00,007 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 20:10:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 20:10:00,314 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 20:10:00,315 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 20:10:00,315 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 20:15:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 20:15:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 20:15:00,007 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 20:15:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 20:15:00,329 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 20:15:00,329 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 20:15:00,329 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 20:20:00,005 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 20:20:00,008 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 20:20:00,008 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 20:20:00,009 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 20:20:00,329 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 20:20:00,329 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 20:20:00,329 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 20:25:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 20:25:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 20:25:00,007 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 20:25:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 20:25:00,320 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 20:25:00,320 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 20:25:00,320 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 20:30:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 20:30:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 20:30:00,007 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 20:30:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 20:30:00,322 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 20:30:00,322 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 20:30:00,322 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 20:35:00,003 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 20:35:00,006 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 20:35:00,006 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 20:35:00,006 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 20:35:00,346 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 20:35:00,346 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 20:35:00,346 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 20:40:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 20:40:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 20:40:00,007 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 20:40:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 20:40:00,333 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 20:40:00,333 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 20:40:00,333 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 20:45:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 20:45:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 20:45:00,007 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 20:45:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 20:45:00,333 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 20:45:00,333 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 20:45:00,333 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 20:50:00,005 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 20:50:00,008 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 20:50:00,008 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 20:50:00,008 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 20:50:00,328 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 20:50:00,328 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 20:50:00,328 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 20:55:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 20:55:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 20:55:00,007 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 20:55:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 20:55:00,332 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 20:55:00,332 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 20:55:00,332 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 21:00:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 21:00:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 21:00:00,007 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 21:00:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 21:00:00,320 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 21:00:00,320 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 21:00:00,320 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 21:05:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 21:05:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 21:05:00,007 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 21:05:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 21:05:00,333 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 21:05:00,333 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 21:05:00,333 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 21:10:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 21:10:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 21:10:00,007 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 21:10:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 21:10:00,332 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 21:10:00,333 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 21:10:00,333 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 21:15:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 21:15:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 21:15:00,007 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 21:15:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 21:15:00,346 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 21:15:00,346 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 21:15:00,346 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 21:20:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 21:20:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 21:20:00,007 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 21:20:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 21:20:00,336 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 21:20:00,336 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 21:20:00,336 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 21:25:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 21:25:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 21:25:00,007 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 21:25:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 21:25:00,332 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 21:25:00,332 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 21:25:00,332 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 21:30:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 21:30:00,008 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 21:30:00,008 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 21:30:00,008 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 21:30:00,310 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 21:30:00,310 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 21:30:00,310 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 21:35:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 21:35:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 21:35:00,008 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 21:35:00,008 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 21:35:00,329 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 21:35:00,329 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 21:35:00,329 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 21:40:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 21:40:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 21:40:00,007 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 21:40:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 21:40:00,352 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 21:40:00,352 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 21:40:00,352 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 21:45:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 21:45:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 21:45:00,007 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 21:45:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 21:45:00,345 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 21:45:00,345 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 21:45:00,345 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 21:50:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 21:50:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 21:50:00,007 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 21:50:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 21:50:00,330 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 21:50:00,331 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 21:50:00,331 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 21:55:00,005 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 21:55:00,008 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 21:55:00,008 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 21:55:00,008 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 21:55:00,335 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 21:55:00,335 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 21:55:00,335 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 22:00:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 22:00:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 22:00:00,007 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 22:00:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 22:00:00,317 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 22:00:00,317 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 22:00:00,317 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 22:05:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 22:05:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 22:05:00,007 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 22:05:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 22:05:00,338 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 22:05:00,338 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 22:05:00,338 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 22:10:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 22:10:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 22:10:00,007 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 22:10:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 22:10:00,379 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 22:10:00,379 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 22:10:00,379 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 22:15:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 22:15:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 22:15:00,007 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 22:15:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 22:15:00,318 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 22:15:00,318 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 22:15:00,318 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 22:20:00,003 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 22:20:00,006 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 22:20:00,006 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 22:20:00,006 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 22:20:00,327 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 22:20:00,327 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 22:20:00,327 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 22:25:00,005 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 22:25:00,008 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 22:25:00,008 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 22:25:00,008 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 22:25:00,342 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 22:25:00,343 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 22:25:00,343 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 22:30:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 22:30:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 22:30:00,007 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 22:30:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 22:30:00,328 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 22:30:00,328 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 22:30:00,328 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 22:35:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 22:35:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 22:35:00,007 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 22:35:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 22:35:00,346 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 22:35:00,346 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 22:35:00,347 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 22:40:00,003 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 22:40:00,006 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 22:40:00,006 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 22:40:00,006 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 22:40:00,318 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 22:40:00,318 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 22:40:00,318 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 22:45:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 22:45:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 22:45:00,007 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 22:45:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 22:45:00,330 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 22:45:00,330 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 22:45:00,330 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 22:50:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 22:50:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 22:50:00,007 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 22:50:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 22:50:00,345 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 22:50:00,345 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 22:50:00,345 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 22:55:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 22:55:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 22:55:00,007 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 22:55:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 22:55:00,378 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 22:55:00,378 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 22:55:00,378 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 23:00:00,003 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 23:00:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 23:00:00,007 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 23:00:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 23:00:00,336 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 23:00:00,337 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 23:00:00,337 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 23:05:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 23:05:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 23:05:00,007 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 23:05:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 23:05:00,378 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 23:05:00,378 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 23:05:00,378 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 23:10:00,003 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 23:10:00,006 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 23:10:00,006 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 23:10:00,006 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 23:10:00,320 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 23:10:00,320 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 23:10:00,320 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 23:15:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 23:15:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 23:15:00,007 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 23:15:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 23:15:40,106 ERROR c.c.d.collector.DefaultGitHubClient - I/O error on GET request for "https://api.github.com/repos/AshishSanju/Mss/commits?sha=master&since=2017-02-25T23:05Z":Connect to api.github.com:443 [api.github.com/192.30.253.117, api.github.com/192.30.253.116] failed: connect timed out; nested exception is org.apache.http.conn.ConnectTimeoutException: Connect to api.github.com:443 [api.github.com/192.30.253.117, api.github.com/192.30.253.116] failed: connect timed out:https://api.github.com/repos/AshishSanju/Mss/commits?sha=master&since=2017-02-25T23:05Z
+2017-02-25 23:16:00,350 INFO  c.c.d.collector.CollectorTask - Repo Count              2       60s
+2017-02-25 23:16:00,350 INFO  c.c.d.collector.CollectorTask - New Commits             0       60s
+2017-02-25 23:16:00,350 INFO  c.c.d.collector.CollectorTask - Finished                        60s
+2017-02-25 23:20:00,002 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 23:20:00,005 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 23:20:00,005 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 23:20:00,005 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 23:20:00,371 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 23:20:00,371 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 23:20:00,371 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 23:25:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 23:25:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 23:25:00,007 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 23:25:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 23:25:20,327 INFO  c.c.d.collector.CollectorTask - Repo Count              2       20s
+2017-02-25 23:25:20,328 INFO  c.c.d.collector.CollectorTask - New Commits             0       20s
+2017-02-25 23:25:20,328 INFO  c.c.d.collector.CollectorTask - Finished                        20s
+2017-02-25 23:30:00,003 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 23:30:00,006 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 23:30:00,006 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 23:30:00,006 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 23:30:00,322 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 23:30:00,322 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 23:30:00,322 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 23:35:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 23:35:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 23:35:00,007 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 23:35:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 23:35:40,056 ERROR c.c.d.collector.DefaultGitHubClient - I/O error on GET request for "https://api.github.com/repos/AshishSanju/Mss/commits?sha=master&since=2017-02-25T23:25Z":Connect to api.github.com:443 [api.github.com/192.30.253.117, api.github.com/192.30.253.116] failed: connect timed out; nested exception is org.apache.http.conn.ConnectTimeoutException: Connect to api.github.com:443 [api.github.com/192.30.253.117, api.github.com/192.30.253.116] failed: connect timed out:https://api.github.com/repos/AshishSanju/Mss/commits?sha=master&since=2017-02-25T23:25Z
+2017-02-25 23:36:20,092 ERROR c.c.d.collector.DefaultGitHubClient - I/O error on GET request for "https://api.github.com/repos/AshishSanju/practice/commits?sha=prasanth_demo&since=2017-02-25T23:25Z":Connect to api.github.com:443 [api.github.com/192.30.253.116, api.github.com/192.30.253.117] failed: connect timed out; nested exception is org.apache.http.conn.ConnectTimeoutException: Connect to api.github.com:443 [api.github.com/192.30.253.116, api.github.com/192.30.253.117] failed: connect timed out:https://api.github.com/repos/AshishSanju/practice/commits?sha=prasanth_demo&since=2017-02-25T23:25Z
+2017-02-25 23:36:20,092 INFO  c.c.d.collector.CollectorTask - Repo Count              2       80s
+2017-02-25 23:36:20,092 INFO  c.c.d.collector.CollectorTask - New Commits             0       80s
+2017-02-25 23:36:20,092 INFO  c.c.d.collector.CollectorTask - Finished                        80s
+2017-02-25 23:40:00,003 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 23:40:00,006 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 23:40:00,006 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 23:40:00,006 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 23:40:00,324 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 23:40:00,325 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 23:40:00,325 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 23:45:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 23:45:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 23:45:00,008 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 23:45:00,008 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 23:45:00,369 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 23:45:00,370 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 23:45:00,370 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 23:50:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 23:50:00,036 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 23:50:00,036 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 23:50:00,036 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 23:50:00,432 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 23:50:00,432 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 23:50:00,432 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-02-25 23:55:00,004 INFO  c.c.d.collector.CollectorTask - Running Collector: GitHub
+2017-02-25 23:55:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 23:55:00,007 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-02-25 23:55:00,007 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-02-25 23:55:00,410 INFO  c.c.d.collector.CollectorTask - Repo Count              2        0s
+2017-02-25 23:55:00,410 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-02-25 23:55:00,410 INFO  c.c.d.collector.CollectorTask - Finished                         0s
